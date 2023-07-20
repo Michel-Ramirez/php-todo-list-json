@@ -1,0 +1,12 @@
+main {
+    background-color: #3161E0;
+    height: 100vh;
+}
+
+main .container {
+    width: 300px;
+}
+
+h1 {
+    color: white;
+}
